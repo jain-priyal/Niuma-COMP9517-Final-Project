@@ -14,3 +14,7 @@ python train.py
 // test
 python test.py
 ```
+
+## Mask R-CNN
+Model weights: 
+https://unsw-my.sharepoint.com/:u:/g/personal/z5512958_ad_unsw_edu_au/EZ6VEimrpg9GhANnZ-LiOE8BhLr2S2-gMuNW6NZXjcRC4w?e=f1Gftb
